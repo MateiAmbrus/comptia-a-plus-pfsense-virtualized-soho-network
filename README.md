@@ -4,4 +4,5 @@ This project was created to strengthen my understanding of networking fundamenta
 
 The goal was to combine practical networking knowledge with virtualization tools like VMware, improving my readiness for real-world IT support scenarios.
 
+The image bellow shows the topology of the network
 <img width="741" height="501" alt="NetworkDiagram2" src="https://github.com/user-attachments/assets/2a266835-bf3b-4bdc-a5f8-38d408caada9" />
